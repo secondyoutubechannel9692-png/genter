@@ -6,3 +6,5 @@ protobuf
 requests
 aiohttp
 Pillow
+flask
+gunicorn
